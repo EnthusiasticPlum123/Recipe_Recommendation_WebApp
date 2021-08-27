@@ -1,0 +1,16 @@
+#recipecontainer img, #recipehit img{
+    width:100%;
+}
+
+@media(min-width:960px){
+
+    #recipecontainer .col-md-3 .well{
+        height:390px;
+    }
+    
+    #recipecontainer .col-md-3 img{
+        /* margin-top: 5px; */
+        height: 240px;
+    }
+
+}
